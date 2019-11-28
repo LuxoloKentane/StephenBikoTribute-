@@ -1,0 +1,15 @@
+header {
+    position: static;
+    right: 50px
+}
+
+.banner{ 
+    position: relative;
+}
+.banner img{
+    max-width: 100%;
+}
+.banner .welcome{
+    position: absolute;
+} 
+
